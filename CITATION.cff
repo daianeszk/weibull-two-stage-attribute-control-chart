@@ -2,6 +2,9 @@ cff-version: 1.2.0
 message: "If you use these R scripts, please cite this software release and the associated research article."
 title: "A Two-Stage Attribute Control Chart for Monitoring the Mean of Weibull-Distributed Lifetime Processes"
 type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/daianeszk/weibull-two-stage-attribute-control-chart"
 authors:
   - family-names: "Guimarães"
     given-names: "Daiane S."
@@ -9,3 +12,4 @@ authors:
     given-names: "Linda Lee"
   - family-names: "Quinino"
     given-names: "Roberto C."
+  
